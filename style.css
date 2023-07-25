@@ -1,0 +1,18 @@
+body{
+    background-image:url(https://cdn.notonthehighstreet.com/system/product_images/images/001/225/975/original_abstract-road-map-centred-on-london.jpg) ;
+}
+.main{
+    align-self: center;
+    margin-left: 28%;
+    margin-right: 28%;
+    border-color: black;
+    border-style: solid;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNVzbu4fY8lMd3wrY9mUxCyp5Wgw42vI7jw&usqp=CAU);
+}
+h3{
+    -webkit-text-fill-color: black;
+}
+.Submit{
+    
+    margin-left: 60%;
+}
